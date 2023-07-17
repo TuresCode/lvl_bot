@@ -76,6 +76,3 @@ For example, to calculate the levels for the stock `SW20` with the broker `CAPIT
 
 If you want to contribute to the project, you can fork the repository and create a new branch for your changes. Once you have made your changes, you can create a pull request to merge your changes into the main branch.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
